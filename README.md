@@ -1,4 +1,4 @@
-### GIT-PUSHED-PROJECT 
+#### GIT-PUSHED-PROJECT 
 This Project is a free-form excercise for anyone within our MasterSchool group. The goal for this app is just to have a platform where us users/devs can create, manage and collaborate with whatever functionality we'd like to see. If you feel like trying something out, make an appropriately named branch, create the functionality (or just however far you came) within that branch and push it. Whenever we have meetings, we can see and discuss what's happened and even merge it to main if we want.  
 
 ## Do not fork, just push a branch.
