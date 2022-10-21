@@ -8,9 +8,9 @@ As stated before, this is a free workspace, collaboration is key. To enable this
  none.... yet.
 
 ### Meeting agenda: 
-How to get everyone collaborating in the project!!! /n
-How would everyone want their credentials be displayed in the project? /n
-GET ME ALL THEM USERNAMES !!! /n
+How to get everyone collaborating in the project!!!
+How would everyone want their credentials be displayed in the project? 
+GET ME ALL THEM USERNAMES !!!
 
 ### users to add:
  `Adam Ocheri` 
