@@ -15,13 +15,13 @@ GET ME ALL THEM USERNAMES !!!
 ### users to add:
  `Adam Ocheri` 
  `Abdullah Kafi`
- `Decio Candido`
- `Filipa Horta Loureiro`,
+ `Decio Candido` `invited`
+ `Filipa Horta Loureiro`
  `jalmir Maksuti`
  `Joseph Ugiabe`
  `Max Wiegel`
- `Noam Rivin`
- `Tami Gaertner`
+ `Noam Rivin` `invited`
+ `Tami Gaertner` `invited`
 
 
 
