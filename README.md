@@ -1,8 +1,8 @@
 # GIT-PUSHED-PROJECT 
 This Project is a free-form excercise for anyone within our MasterSchool group. The goal for this app is just to have a platform where us users/devs can create, manage and collaborate with whatever functionality we'd like to see. If you feel like trying something out, make an appropriately named branch, create the functionality (or just however far you came) within that branch and push it. Whenever we have meetings, we can see and discuss what's happened and even merge it to main if we want.  
 
-## Do not fork, instead, branch off, then push the branch! 
-As stated before, this is a free workspace, collaboration is key. To enable this, please create new branches and push to them. only work on branches that are created by you, or the creator knows of this. This README will get updated with the rules we set for our workspace. 
+## Do not fork!  instead: clone, branch off, then push the branch!
+As stated before, this is a free workspace, collaboration is key. To enable this, please create new branches and push to them. Only work on branches that are created by you, or the creator knows of this. This README will get updated with the rules we set for our workspace. 
 
 ### List modules: 
  none.... yet.
