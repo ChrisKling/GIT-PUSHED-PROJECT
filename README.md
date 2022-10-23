@@ -1,3 +1,6 @@
+# THIS IS THE WRONG REPO! GET INTO THE `https://github.com/Git-Pushed/GIT-PUSHED-PROJECT.git` REPOSITORY! 
+Don't make any changes here. Go to the above mentioned repo instead. that's our oranisation's repo, and is way easier to manage the team in!
+
 # GIT-PUSHED-PROJECT 
 This Project is a free-form excercise for anyone within our MasterSchool group. The goal for this app is just to have a platform where us users/devs can create, manage and collaborate with whatever functionality we'd like to see. If you feel like trying something out, make an appropriately named branch, create the functionality (or just however far you came) within that branch and push it. Whenever we have meetings, we can see and discuss what's happened and even merge it to main if we want.  
 
